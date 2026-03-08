@@ -29,19 +29,7 @@ The system followed a simple but effective workflow:
 
 ```
 
-User attempts access to S3 bucket/file
-│
-▼
-AWS CloudTrail logs the API event
-│
-▼
-Amazon EventBridge filters for suspicious activity
-│
-▼
-AWS Lambda executes automated response
-│
-├─ Attach DenyAll IAM policy to user
-└─ Send SOC alert via SNS email
+User attempts access to S3 bucket/file -> AWS CloudTrail logs the API event -> Amazon EventBridge filters for suspicious activity -> AWS Lambda executes automated response -> Attach DenyAll IAM policy to user ->  Send SOC alert via SNS email
 
 ````
 
