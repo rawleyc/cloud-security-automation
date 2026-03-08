@@ -186,3 +186,6 @@ By the end of this project, I had a **fully functional AWS SOC automation lab** 
 This project demonstrates **hands-on expertise in cloud security, serverless automation, and incident response workflows**, making it strong for SOC, cloud security, and DevSecOps portfolios.
 
 ```
+<img width="695" height="330" alt="image" src="https://github.com/user-attachments/assets/6acf139b-19c7-4151-a3c0-b6c4d3acf122" />
+<img width="1917" height="428" alt="Screenshot 2026-03-08 225020" src="https://github.com/user-attachments/assets/bedd562f-8659-4370-8d6c-739e571597a4" />
+
